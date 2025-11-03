@@ -99,6 +99,7 @@ PaddleDetection是一个基于PaddlePaddle的目标检测端到端开发套件�
 
 - **🏅️社区贡献：** PaddleDetection非常欢迎你加入到飞桨社区的开源建设中，参与贡献方式可以参考[开源项目开发指南](docs/contribution/README.md)。
 - [**🎈社区近期活动**](community.md)
+- **📊PaddleDetection vs MMDetection：** 想了解PaddleDetection与MMDetection的详细对比？查看我们的[对比分析文档](docs/PaddleDetection_vs_MMDetection_cn.md) | [Comparison Document (EN)](docs/PaddleDetection_vs_MMDetection_en.md)
 
 
 

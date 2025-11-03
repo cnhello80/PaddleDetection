@@ -83,6 +83,8 @@
 
 - If you have any question or suggestion, please give us your valuable input via [GitHub Issues](https://github.com/PaddlePaddle/PaddleDetection/issues)
 
+- **📊 PaddleDetection vs MMDetection:** Want to understand the detailed comparison between PaddleDetection and MMDetection? Check out our [Comparison Document (EN)](docs/PaddleDetection_vs_MMDetection_en.md) | [对比分析文档 (中文)](docs/PaddleDetection_vs_MMDetection_cn.md)
+
   Welcome to join PaddleDetection user groups on WeChat (scan the QR code, add and reply "D" to the assistant)
 
   <div align="center">
